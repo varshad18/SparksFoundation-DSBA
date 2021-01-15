@@ -11,13 +11,15 @@
 #### DATASET:  
   http://bit.ly/w-data  
   
-## TASK 1:  
+## TASK 2:  
 #### ABOUT:  
-   A simple linear regression problem that involves just 2 variables.  
+   An Unsupervised ML problem using K-Means Clustering .  
 #### TO DO:  
-  Predict the percentage of a student based on the no. of study hours.  
-  What will be predicted score if a student studies for 9.25 hrs/ day?  
+  Predict the optimum number of clusters.  
+  Represent the clusters visually.  
 #### DATASET:  
-  http://bit.ly/w-data 
+  https://bit.ly/3kXTdox  
+
+## TASK 3:
   
 
